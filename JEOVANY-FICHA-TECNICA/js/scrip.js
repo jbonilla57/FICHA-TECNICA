@@ -1,0 +1,1 @@
+alert("FICHA TECNICA")

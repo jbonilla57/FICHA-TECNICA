@@ -1,0 +1,10 @@
+body{
+    background-color: hsl(192, 86%, 59%);
+}
+
+table,th,tr,td{
+    border: 1px solid #0c0c0c;
+    min-width: 80%;
+    margin: auto;
+    font-size: 1em;
+}
